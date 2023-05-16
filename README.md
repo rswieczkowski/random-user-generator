@@ -1,1 +1,1 @@
-Small app that print random user fetch from API
+Small app that prints random user fetch from API
